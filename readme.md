@@ -1,4 +1,4 @@
-**WIP starting point**
+#**WIP starting point**
 project for querying generative language models using voice commands.
 
 > instal ffmpeg
